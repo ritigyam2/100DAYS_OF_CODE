@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main()
+{
+    long long n;
+    if (scanf("%lld", &n) != 1)
+        return 0;
+    if (n % 2 == 0)
+        printf("%lld is even", n);
+    else
+        printf("%lld is odd", n);
+    return 0;
+}
