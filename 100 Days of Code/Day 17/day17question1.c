@@ -1,3 +1,4 @@
+//Write a program to check if a number is an Armstrong number
 #include <stdio.h>
 long long ipow(long long a, int e)
 {

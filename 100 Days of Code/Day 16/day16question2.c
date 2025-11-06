@@ -1,3 +1,4 @@
+//Write a program to check if a number is a palindrome.
 #include <stdio.h>
 long long llabsll(long long x) { return x < 0 ? -x : x; }
 int main()

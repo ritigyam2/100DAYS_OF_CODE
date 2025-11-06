@@ -1,3 +1,5 @@
+//Write a program to find the product of odd digits of a number
+
 #include <stdio.h>
 long long llabsll(long long x) { return x < 0 ? -x : x; }
 int main()

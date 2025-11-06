@@ -1,3 +1,5 @@
+//Write a program to find the HCF (GCD) of two numbers
+
 #include <stdio.h>
 long long llabsll(long long x) { return x < 0 ? -x : x; }
 long long gcdll(long long a, long long b)
